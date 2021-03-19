@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(226, 194, 158);
+    font-family: Arial;
+}
+h1{
+    text-align: center;
+}
+#container{
+    background-color: rgb(243, 241, 232);
+    max-width: 30%;
+    padding: 10px;
+    border-radius: 6px;
+    margin: auto;
+    text-align: center;
+}
+#credito{
+    text-align: center;
+}
+img{
+   width: 350px;
+   height: 350px;
+   margin: auto;
+   padding: 10px;
+}
